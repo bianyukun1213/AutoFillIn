@@ -41,7 +41,7 @@ sleep 5
 adb shell input swipe 550 2000 550 1500 50
 sleep 5
 # Click Acquire.
-adb shell input tap 1000 360
+adb shell input tap 1000 415
 sleep 5
 # Swipe down.
 adb shell input swipe 550 2000 550 1500
